@@ -182,7 +182,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/Dillu1984)
+- [OG ASTAAD](https://telegram.dog/og_punjabi)
 - [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
 - [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/Dr_Asad_Ali)
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
